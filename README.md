@@ -6,4 +6,5 @@ Shows knowledge of NLP preprocessing techniques (including tokenizing, POS taggi
 Naive Bayes classification for natural language situations.
 
 TODO: Heuristic for best words instead of n most common
+
       More complex modelling techniques (eg. Deep Transfer Learning)
